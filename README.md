@@ -4,7 +4,7 @@
 
 Snipplet terminal command line for MacOS
 <br><br>
-**_<p>[Duplicate WeChat](https://younision.com)</p>_**
+**_<p>[DUPLICATE WECHAT](https://younision.com)</p>_**
 - Copy the code as below run inside terminal. This script will need to re-execute if you reboot your operating system. To execute it use command ```bash wechat.sh```
 ```bash
 echo -e "nohup /Applications/WeChat.app/Contents/MacOS/WeChat> /dev/null 2>&1 &" >> wechat.sh
